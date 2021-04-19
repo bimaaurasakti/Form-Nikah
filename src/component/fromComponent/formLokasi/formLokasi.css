@@ -1,0 +1,6 @@
+.form__lokasi__container > h3 {
+  margin: 0;
+  padding-bottom: 15px;
+  border-bottom: solid rgba(0, 0, 0, 0.2) 1px;
+  margin-bottom: 25px;
+}

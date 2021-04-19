@@ -1,0 +1,6 @@
+.formTitle > h3 {
+  margin: 50px 0 0 0;
+  padding-bottom: 15px;
+  border-bottom: solid rgba(0, 0, 0, 0.2) 1px;
+  margin-bottom: 25px;
+}

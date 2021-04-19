@@ -1,0 +1,24 @@
+.form__inputNamaKota {
+  width: 17%;
+  margin-left: 20px;
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+  background-color: white;
+}
+
+.koma {
+  display: flex;
+  align-items: flex-end;
+  margin: 0 6px;
+}
+
+.form__inputTanggal {
+  width: 21%;
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 5px;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+  background-color: white;
+}
